@@ -38,7 +38,6 @@ This is a GraphQL backend built with Node.js that includes Queries and Mutations
 
 ## API Endpoints
 
-- **GraphQL Endpoint**: `/graphql`
 - **Queries & Mutations**:
   - Get games, reviews, and authors.
   - Add, update, and delete games, reviews, and authors.
