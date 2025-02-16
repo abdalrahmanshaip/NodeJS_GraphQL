@@ -11,12 +11,12 @@ This is a GraphQL backend built with Node.js that includes Queries and Mutations
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/abdalrahmanshaip/NodeJS_GraphQL
+   git clone https://github.com/abdalrahmanshaip/NodeJS_GraphQL.git
    ```
 
 2. **Navigate to the project directory**
    ```sh
-   cd YOUR_REPO
+   cd NodeJS_GraphQL
    ```
 
 3. **Install dependencies**
